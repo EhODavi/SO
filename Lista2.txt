@@ -1,0 +1,250 @@
+    1  apt install net-tools
+    2  ifconfig
+    3  ifconfig > net.txt
+    4  ls
+    5  echo "Progresso é a habilidade do homem de complicar as coisas simples" > thor.txt
+    6  ls
+    7  cat thor.txt
+    8  cd ~
+    9  cd /usr/share
+   10  cd ..
+   11  cd /usr/share
+   12  cd /var
+   13  cd /etc
+   14  pwd
+   15  cd /home/raissa
+   16  ls 
+   17  rm -r Marvel
+   18  rm -r DC
+   19  ls
+   20  cp /etc/passwd /tmp
+   21  ls /tmp
+   22  ls -l
+   23  ls -l /boot
+   24  ls -a /root
+   25  history > comandos.txt
+   26  mv comandos.txt /home/raissa/Área\ de\ Trabalho/
+   27  exit
+   28  cd /
+   29  cd /home/raissa
+   30  nano teste.conf
+   31  cat teste.conf
+   32  touch motivacao.txt
+   33  nano motivacao.txt
+   34  cat motivacao.txt
+   35  cp /etc/passwd /home
+   36  cat passwd
+   37  ls /home
+   38  pwd
+   39  cd /home
+   40  ls 
+   41  cat passwd
+   42  adduser Ubuntu
+   43  adduser ubuntu
+   44  adduser debian
+   45  adduser windows
+   46  adduser fedora
+   47  gpasswd -a ubuntu SO
+   48  groupadd so
+   49  gpasswd -a ubuntu so
+   50  gpasswd -a debian so
+   51  gpasswd -a windows so
+   52  gpasswd -a fedora so
+   53  mkdir -p /backup/2015/fotos
+   54  mkdir -p /backup/2015/nudes
+   55  rmdir /backup/2015/nudes
+   56  mkdir -p /backup/2015/escola
+   57  cd /backup/2015/escola
+   58  touch provas.txt 
+   59  touch aulas.txt
+   60  touch estudos.txt
+   61  cp aulas.txt estudos.txt
+   62  echo ifconfig > net 
+   63  echo netstat > rede
+   64  cat net
+   65  ifconfig
+   66  ifconfig > net
+   67  cat net
+   68  netstat
+   69  netstat > rede
+   70  cat rede
+   71  cat net >> rede
+   72  cat rede
+   73  nano questao17
+   74  ls questao17
+   75  id ubuntu
+   76  nano questao18
+   77  ls -a estudo.txt
+   78  ls -l estudo.txt
+   79  cd /home/raissa
+   80  touch estudo.txt
+   81  ls -l estudo.txt
+   82  chmod 040 net 
+   83  cd /backup/2015/escoola
+   84  cd /backup/2015/escola
+   85  ls -l estudos.txt
+   86  chmod 040 net
+   87  chmod 666 rede
+   88  cd /etc/passwd
+   89  cd /home
+   90  ls
+   91  ls -l passwd
+   92  ls -l motivacao.txt
+   93  ls -l motivaçao.txt
+   94  cd ~
+   95  ls
+   96  ls -l motivacao.txt
+   97  chmod 666 motivacao.txt
+   98  userdel ubuntu
+   99  userdel windows
+  100  userdel fedora
+  101  userdel debian
+  102  cd /home/raissa/Área\ de\ Trabalho/
+  103  history > comandos2.txt
+  104  exit
+  105  apt install mc
+  106  reboot
+  107  apt install mc
+  108  ps -aux |grep root
+  109  ps -aux |grep root |more
+  110  apt install mc
+  111  adduser talles
+  112  cd /
+  113  cd /home
+  114  touch Batman.txt
+  115  nano Batman.txt
+  116  adduser batman
+  117  adduser gordon
+  118  adduser Alfred
+  119  adduser alfred
+  120  addgroup Gotham
+  121  groupadd gotham
+  122  gpasswd -a gotham batman gordon alfred
+  123  gpasswd -a gotham batman
+  124  gpasswd -a batman gordon alfred -g gotham
+  125  gpasswd -a batman -g gotham
+  126  gpasswd -a gordon -g gotham
+  127  gpasswd -a alfred -g gotham
+  128  useradd bullock
+  129  mkdir -p séries/2015/gotham
+  130  mkdir -p séries/2015/flash
+  131  rmdir xxx
+  132  touch legenda.txt
+  133  touch vilões.txt
+  134  rm legenda.txt
+  135  rm vilões.txt
+  136  touch legenda.txt > séries/2015/gotham
+  137  touch séries/2015/gotham/legenda.txt
+  138  touch séries/2015/gotham/vilões.txt
+  139  nano séries/2015/gotham/legenda.txt
+  140  nano id.txt
+  141  cat id.txt
+  142  nano cria.sh
+  143  chmod +x cria.sh
+  144  ./cria.sh
+  145  cat texto
+  146  nano script.sh
+  147  chmod +x script.sh
+  148  ./script.sh
+  149  nano script.sh
+  150  useradd arroz
+  151  ./script.sh
+  152  nano script.sh
+  153  ./script.sh
+  154  afa
+  155  ./script.sh
+  156  nano script.sh
+  157  ./script.sh
+  158  nano script.sh
+  159  ./script.sh
+  160  nano script.sh
+  161  ./script.sh
+  162* 
+  163  chmod +x s1.sh
+  164  ./s1.sh
+  165* 
+  166  ./s1.sh
+  167  nano s1.sh
+  168  ./s1.sh
+  169  nano s1.sh
+  170  ./s1.sh
+  171  nano s1.sh
+  172  ./s1.sh
+  173  nano s1.sh
+  174  ./s1.sh
+  175  nano s1.sh
+  176  ./s1.sh
+  177  nano s1.sh
+  178  ./s1.sh
+  179  nano s1.sh
+  180  ./s1.sh
+  181  nano s1.sh
+  182  ./s1.sh
+  183  nano s1.sh
+  184  ./s1.sh
+  185* nano s1.sh[A
+  186  ./s1.sh
+  187  nano s1.sh
+  188  ./s1.sh
+  189  nano s1.sh
+  190  ./s1.sh
+  191  nano s1.sh
+  192  ./s1.sh
+  193  nano s1.sh
+  194  ./s1.sh
+  195  nano s1.sh
+  196  ./s1.sh
+  197  nano s1.sh
+  198  ./s1.sh
+  199  nano s1.sh
+  200  ./s1.sh
+  201  nano s1.sh
+  202  ls /etc/passwd
+  203  cd /etc/passwd
+  204  cd etc/passwd
+  205  ls /etc
+  206  ls /etc/passwd
+  207  ls -l /passwd
+  208  ls -l /etc/passd
+  209  ls -l /etc/passwd
+  210  nano s1.sh
+  211  ./s1.sh
+  212  nano s1.sh
+  213  ./s1.sh
+  214  nano s1.sh
+  215  ./s1.sh
+  216  nano s1.sh
+  217  ./s1.sh
+  218  nano s1.sh
+  219  ./s1.sh
+  220  asd
+  221  ./s1.sh
+  222  asd
+  223  ./s1.sh
+  224  nano s1.sh
+  225  ./s1.sh
+  226  nano s1.sh
+  227  ./s1.sh
+  228  nano s1.sh
+  229  ./s1.sh
+  230  useradd maia
+  231  ./s1.sh
+  232  nano teste.sh
+  233  nano s1.sh
+  234  nano teste.sh
+  235  geany teste.sh
+  236  chmod +x teste.sh
+  237  ./teste.sh
+  238  geany teste.sh
+  239  ./teste.sh
+  240  geany teste.sh
+  241  ./teste.sh
+  242  geany teste.sh
+  243  geany somatoriosh
+  244  geany somatorio.sh
+  245  chmod +x somatorio.sh
+  246  ./somatorio.sh
+  247  history > maiadavielao.txt
+  248  ls /home
+  249  history > /home/raissa/Área\ de\ Trabalho/ maiadavielao.txt
+  250  history > /home/raissa/Área\ de\ Trabalho/maiadavielao.txt

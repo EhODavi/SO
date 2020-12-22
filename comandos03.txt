@@ -1,0 +1,85 @@
+    1  cd /
+    2  cd ~
+    3  touch batman.txt
+    4  ls
+    5  echo "Me diz... você sangra? Vai sangrar!" > batman.txt
+    6  cp batman.txt /home
+    7  sudo -s
+    8  cp batman.txt /home
+    9  cat batman.txt > superman.txt
+   10  echo "Como é triste ver o dia amanhecer, quando se passou a noite toda chorando..." > superman.txt
+   11  mkdir /home/herois
+   12  mkdir /home/herois/marvel
+   13  mv batman.txt /home/herois/DC
+   14  cp superman.txt /home/herois/DC
+   15  touch /home/herois/marvel/deadpool.txt
+   16  cp /home/herois
+   17  cd /home/herois
+   18  ls
+   19  cd marvel
+   20  ls
+   21  cd /
+   22  touch /home/herois/marvel/thor.txt
+   23  echo "Bem, talvez eu seja super. Mas não sou nada heroi" > deadpool.txt
+   24  ifconfig > net.txt
+   25  apt install net-tools
+   26  ifconfig > net.txt
+   27  echo "Progresso é a habilidade do homem de complicar as coisas simples" > thor.txt
+   28  cd ~
+   29  cd /usr/share
+   30  cd ..
+   31  cd -
+   32  cd /var
+   33  cd /etc
+   34  pwd
+   35  cd ~
+   36  ls /home
+   37  cp passwd /tmp
+   38  ls
+   39  cd /etc
+   40  ls
+   41  cd ~
+   42  cp /etc/passwd /tmp
+   43  ls -l /boot
+   44  ls -a /root
+   45  history > comandos.txt
+   46  ls
+   47  ls comandos.txt
+   48  cat comandos.txt
+   49  cd ~
+   50  cd /
+   51  cd ~
+   52  touch motivação.txt
+   53  nano "Eu não vou desistir:Missão dada, parceiro, é missão cumprida!" > motivação.txt
+   54  apt-get install apache2
+   55  apt-get update
+   56  cd /var/www
+   57  ls
+   58  cd html
+   59  ls
+   60  cp index.html index.bkp
+   61  ls
+   62  nano index.html
+   63  echo "" > index.html
+   64  nano indext.html
+   65  nano index.html
+   66  ls index.html
+   67  nano index.html
+   68  mcedit index.html
+   69  apt install mc
+   70  mcedit index.html
+   71  geang index.html
+   72  geany index.html
+   73  apt install geany
+   74  geany index.html
+   75  cd /
+   76  history > comandos03
+   77  history > /home/comandos03
+   78  history > comandos03.txt
+   79  history > /home/comandos03.txt
+   80  history > /home/Área de trabalho/comandos03.txt
+   81  history > /eohdavi
+   82  history > /home/davi
+   83  history > home/ehodavi
+   84  history > home/ehodavi/comandos03
+   85  history > home/ehodavi/comandos03.txt
